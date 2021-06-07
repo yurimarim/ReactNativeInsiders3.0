@@ -12,7 +12,7 @@
 ## Maratona React Native Insiders 3.0 - guiada pelo Matheus (SujeitoProgramador).
 
 
-** baixar o projeto e rodar:
-$ npm install
-$ npm install expo-cli --global
-$ expo start
+### COMANDOS PARA EXECUTAR NO CMD PARA RODAR O PROJETO.
+* $ npm install
+* $ npm install expo-cli --global
+* $ expo start
