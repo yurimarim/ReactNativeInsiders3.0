@@ -2,7 +2,7 @@
 
 - Projeto de aplicativo desenvolvimento usando o framework React Native. 
 
-- O objetivo do aplicativo era:
+- O objetivo do aplicativo é:
     * Encurtar um link usando uma API (Bitly)
     * Copiar ele
     * Compartilhar
