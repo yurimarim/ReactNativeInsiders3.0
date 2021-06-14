@@ -1,5 +1,5 @@
 // Primeiro arquivo a ser RENDERIZADO pelo APP.
-// JSX = xml + html
+// O JSX significa JavaScript XML e nos permite escrever HTML no React
 // App.js configuração de navegação / da página etc.
 import 'react-native-gesture-handler'
 import React from 'react';
